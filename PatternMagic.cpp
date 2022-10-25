@@ -1,4 +1,29 @@
-//Pattern Magic
+/*
+Problem
+
+You will be given a number N. You have to code a hollow diamond looking pattern.
+
+The output for N=5 is
+
+*********
+**** ****
+***   ***
+**     **
+*       *
+**     **
+***   ***
+**** ****
+*********
+
+Input Format
+The input has only one single integer N.
+
+Explanation
+Write a code to print above given pattern. No space between any two characters.
+*/
+
+//Solution
+
 #include <iostream>
 #include <cstdio>
 using namespace std;

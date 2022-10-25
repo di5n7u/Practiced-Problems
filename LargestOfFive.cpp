@@ -1,4 +1,23 @@
-//Find Largest of 5 Numbers
+/*
+Problem
+
+Read as input 5 Numbers and print the largest out of them
+
+Input Format
+5 Space Separated Numbers (both positive and negative)
+
+Output Format
+Sample Input
+2 4 7 -2 3
+Sample Output
+7
+
+Explanation
+In the given case 7 is largest among the given numbers.
+*/
+
+//Solution
+
 #include<iostream>
 #include <climits>// To get least value of buckets
 using namespace std;

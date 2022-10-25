@@ -12,6 +12,7 @@ Sample Input
 3
 Sample Output
 Prime
+
 Explanation
 The output is case specific
 */

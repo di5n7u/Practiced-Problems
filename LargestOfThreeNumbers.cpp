@@ -1,4 +1,4 @@
-// Input three numbers, print the largest of these numbers
+// Find Largest of 3 Numbers
 #include<iostream>
 #include <climits>// To get least value of buckets
 using namespace std;

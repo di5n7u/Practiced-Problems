@@ -1,3 +1,4 @@
+//Pattern Triangle
 #include <iostream>
 using namespace std;
 int main(){
